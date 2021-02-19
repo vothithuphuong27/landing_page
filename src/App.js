@@ -2,7 +2,6 @@
 import React from 'react';
 import './App.css';
 
-import anh1 from './anh1.jpg';
 import logo from './logo.jpg';
 import person1 from './person1.jpg';
 import person2 from './person2.jpg';
