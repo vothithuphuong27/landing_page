@@ -3,7 +3,7 @@
 }
 
 .header_background {
-  background-image: url("D:\Learn\reactjs\landing-page\src\bgr.jpg");
+  background-image: url("./bgr.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
